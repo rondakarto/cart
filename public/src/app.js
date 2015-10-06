@@ -1,0 +1,12 @@
+var g_gameLayer;
+var g_itemLayer;
+var g_topLayer;
+var g_cart;
+var g_xSpeed = 0;
+var g_left;
+var g_right;
+var g_touchOrigin;
+var g_touchEnd;
+var g_touching = false;
+var g_detectedX;
+var g_savedX;
